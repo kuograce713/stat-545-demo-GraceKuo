@@ -3,3 +3,5 @@ STAT 545 Demo
 My name is Grace Kuo.
 I am an Immunologist.
 I perform experiments to understand how specific subsets of immune cells function in infectious diseases and cancer to see if they can be leveraged for therapeutic applications.
+
+Hey Grace, it's Maggie. Not only are you an immunologist, you are an AWESOME SCIENTIST!
